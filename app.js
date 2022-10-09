@@ -1,5 +1,3 @@
-/* JavaScript for Pathfinding Visualizer */
-
 // Import all algorithms from 'algorithms.js'
 import { dfs, bfs, greedy, dijkstra, astar, timer } from "./algorithms.js";
 
