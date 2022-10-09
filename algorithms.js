@@ -1,6 +1,7 @@
 // Import useful global variables from 'app.js'
 import { SRC, DEST, neighbors, walls, waters, SPEED } from "./app.js";
 
+
 // Water Cost Constant
 const WATER_COST = 10;
 
